@@ -23,6 +23,12 @@ A disciplina focará no desenvolvimento de aplicativos para as principais plataf
 
 Geralmente disponibilizados no formato de slides, podendo ser consultados [aqui](SYLLABUS.md).
 
+## Cronograma
+
+O cronograma da disciplina pode ser consultado por meio deste [link](cronograma.pdf).
+
+*OBS: O cronograma poderá ser alterado a qualquer momento sem aviso prévio.*
+
 ## Avaliações
 
 As avaliações terão foco prático, sendo realizadas em laboratório. O tempo de prova está limitado ao período da aula: geralmente 1 hora 40 minutos. As avaliações serão aplicadas pelo menos uma vez por trimestre.
