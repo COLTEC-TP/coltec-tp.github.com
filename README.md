@@ -85,3 +85,13 @@ Os seminários deverão ser apresentados individualmente, no decorrer do ano. Al
 * [App: The Human Story](http://appdocumentary.com/)
 * [The Age of Unicorns](http://fortune.com/2015/01/22/the-age-of-unicorns/)
 * [GloboNews: Internet e dispositivos móveis tiveram papel fundamental nas decisões políticas de 2016](http://g1.globo.com/globo-news/globo-news-em-pauta/videos/v/internet-e-dispositivos-moveis-tiveram-papel-fundamental-nas-decisoes-politicas-de-2016/5472751/)
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-92178302-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-92178302-3');
+</script>
