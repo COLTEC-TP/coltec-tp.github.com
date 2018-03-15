@@ -15,6 +15,9 @@
     1. [GUI: Layouts](https://jemaf.github.io/Slides-Android/#/4)
         * [Exercícios](https://github.com/COLTEC-TP/Android-E03-GUI/tree/layouts)
         * [Fórum](https://github.com/jemaf/Slides-Android/issues)
+    1. [GUI: Widgets](https://jemaf.github.io/Slides-Android/#/4/22)
+        * [Exercícios](https://github.com/COLTEC-TP/Android-E03-GUI/tree/widgets)
+        * [Fórum](https://github.com/jemaf/Slides-Android/issues)
 
 ## Seminários
 
