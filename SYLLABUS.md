@@ -21,8 +21,11 @@
     1. [GUI: Adapters](https://jemaf.github.io/Slides-Android/#/5)
         * [Exercícios](https://github.com/COLTEC-TP/Android-E04-ActionBar)
         * [Fórum](https://github.com/jemaf/Slides-Android/issues)
-    1. [GUI: Intents](https://jemaf.github.io/Slides-Android/#/6)
+    1. [Intents](https://jemaf.github.io/Slides-Android/#/6)
         * [Exercícios](https://github.com/COLTEC-TP/Android-E05-Intents)
+        * [Fórum](https://github.com/jemaf/Slides-Android/issues)
+    1. [Persistência](https://jemaf.github.io/Slides-Android/#/7)
+        * [Exercícios](https://github.com/COLTEC-TP/Android-E06-Persistencia)
         * [Fórum](https://github.com/jemaf/Slides-Android/issues)
 
 ## Seminários
