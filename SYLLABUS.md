@@ -27,6 +27,9 @@
     1. [Persistência](https://jemaf.github.io/Slides-Android/#/7)
         * [Exercícios](https://github.com/COLTEC-TP/Android-E06-Persistencia)
         * [Fórum](https://github.com/jemaf/Slides-Android/issues)
+    1. [Serviços REST](https://jemaf.github.io/Slides-Android/#/8)
+        * [Exercícios](https://docs.google.com/forms/d/e/1FAIpQLSdEZ8UYx_MtlR3Gy9EPysIjGk5aJhgB5_ueOdyzdVn0ZU72-g/viewform?usp=sf_link)
+        * [Fórum](https://github.com/jemaf/Slides-Android/issues)
 
 ## Seminários
 
