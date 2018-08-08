@@ -33,7 +33,7 @@
 
 ## Seminários
 
-Coming soon!!
+1. [Tópicos de Desenvolvimento em Android](https://github.com/coltec-tp/Android-Seminarios)
 
 ## Trabalhos
 
